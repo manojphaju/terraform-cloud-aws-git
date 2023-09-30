@@ -12,7 +12,7 @@ variable "aws_region" {
 }
 
 variable "aws_instance_type" {
-  description = "Value of the aws instance"
+  description = "Value of the aws instances"
   type = string
   default = "t2.micro"
 }
