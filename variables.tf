@@ -1,7 +1,7 @@
 variable "instance_name" {
     description = "Value of the name tag of EC2"
     type = string
-    default = "Updated Name"
+    default = "Updated Name for VCS test Check"
   
 }
 
